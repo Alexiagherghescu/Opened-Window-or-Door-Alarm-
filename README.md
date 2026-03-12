@@ -1,0 +1,2 @@
+#Opened Window or Door Alarm
+Economical circuit of an electronic alarm, notifies you when your door or window is open, is presented here. This circuit wired around the Quad 2-input NAND Schmitt trigger IC 4093 (IC1) can be powered from a standard 9V battery. Here, a normally-closed (N/C) push switch (S1) is used to monitor the door/window activity. For satisfactory operation,it is crucial to fix S1 in the door/window frame such that when the door/window is closed, S1 remains in open state.
